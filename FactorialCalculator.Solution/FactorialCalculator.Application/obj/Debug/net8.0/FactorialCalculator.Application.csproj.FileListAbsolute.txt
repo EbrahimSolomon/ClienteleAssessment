@@ -1,0 +1,14 @@
+C:\Users\Ebrahim Solomon\source\repos\FactorialCalculator.Solution\FactorialCalculator.Application\bin\Debug\net8.0\FactorialCalculator.Application.exe
+C:\Users\Ebrahim Solomon\source\repos\FactorialCalculator.Solution\FactorialCalculator.Application\bin\Debug\net8.0\FactorialCalculator.Application.deps.json
+C:\Users\Ebrahim Solomon\source\repos\FactorialCalculator.Solution\FactorialCalculator.Application\bin\Debug\net8.0\FactorialCalculator.Application.runtimeconfig.json
+C:\Users\Ebrahim Solomon\source\repos\FactorialCalculator.Solution\FactorialCalculator.Application\bin\Debug\net8.0\FactorialCalculator.Application.dll
+C:\Users\Ebrahim Solomon\source\repos\FactorialCalculator.Solution\FactorialCalculator.Application\bin\Debug\net8.0\FactorialCalculator.Application.pdb
+C:\Users\Ebrahim Solomon\source\repos\FactorialCalculator.Solution\FactorialCalculator.Application\obj\Debug\net8.0\FactorialCalculator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebrahim Solomon\source\repos\FactorialCalculator.Solution\FactorialCalculator.Application\obj\Debug\net8.0\FactorialCalculator.Application.AssemblyInfoInputs.cache
+C:\Users\Ebrahim Solomon\source\repos\FactorialCalculator.Solution\FactorialCalculator.Application\obj\Debug\net8.0\FactorialCalculator.Application.AssemblyInfo.cs
+C:\Users\Ebrahim Solomon\source\repos\FactorialCalculator.Solution\FactorialCalculator.Application\obj\Debug\net8.0\FactorialCalculator.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ebrahim Solomon\source\repos\FactorialCalculator.Solution\FactorialCalculator.Application\obj\Debug\net8.0\FactorialCalculator.Application.dll
+C:\Users\Ebrahim Solomon\source\repos\FactorialCalculator.Solution\FactorialCalculator.Application\obj\Debug\net8.0\refint\FactorialCalculator.Application.dll
+C:\Users\Ebrahim Solomon\source\repos\FactorialCalculator.Solution\FactorialCalculator.Application\obj\Debug\net8.0\FactorialCalculator.Application.pdb
+C:\Users\Ebrahim Solomon\source\repos\FactorialCalculator.Solution\FactorialCalculator.Application\obj\Debug\net8.0\FactorialCalculator.Application.genruntimeconfig.cache
+C:\Users\Ebrahim Solomon\source\repos\FactorialCalculator.Solution\FactorialCalculator.Application\obj\Debug\net8.0\ref\FactorialCalculator.Application.dll

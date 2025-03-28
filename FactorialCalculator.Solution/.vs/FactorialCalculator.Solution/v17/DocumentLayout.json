@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ebrahim Solomon\\source\\repos\\FactorialCalculator.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D9E61D-7FF0-4CE8-B204-4F8A4678B63C}|FactorialCalculator.Application\\FactorialCalculator.Application.csproj|c:\\users\\ebrahim solomon\\source\\repos\\factorialcalculator.solution\\factorialcalculator.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D9E61D-7FF0-4CE8-B204-4F8A4678B63C}|FactorialCalculator.Application\\FactorialCalculator.Application.csproj|solutionrelative:factorialcalculator.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D9E61D-7FF0-4CE8-B204-4F8A4678B63C}|FactorialCalculator.Application\\FactorialCalculator.Application.csproj|c:\\users\\ebrahim solomon\\source\\repos\\factorialcalculator.solution\\factorialcalculator.application\\factorialcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D9E61D-7FF0-4CE8-B204-4F8A4678B63C}|FactorialCalculator.Application\\FactorialCalculator.Application.csproj|solutionrelative:factorialcalculator.application\\factorialcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 524,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FactorialCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\source\\repos\\FactorialCalculator.Solution\\FactorialCalculator.Application\\FactorialCalculator.cs",
+              "RelativeDocumentMoniker": "FactorialCalculator.Application\\FactorialCalculator.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\source\\repos\\FactorialCalculator.Solution\\FactorialCalculator.Application\\FactorialCalculator.cs",
+              "RelativeToolTip": "FactorialCalculator.Application\\FactorialCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:44:35.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\source\\repos\\FactorialCalculator.Solution\\FactorialCalculator.Application\\Program.cs",
+              "RelativeDocumentMoniker": "FactorialCalculator.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\source\\repos\\FactorialCalculator.Solution\\FactorialCalculator.Application\\Program.cs",
+              "RelativeToolTip": "FactorialCalculator.Application\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:43:10.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
