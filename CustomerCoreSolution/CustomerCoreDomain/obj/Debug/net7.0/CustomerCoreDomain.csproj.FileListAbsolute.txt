@@ -1,0 +1,11 @@
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreDomain\bin\Debug\net7.0\CustomerCoreDomain.deps.json
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreDomain\bin\Debug\net7.0\CustomerCoreDomain.dll
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreDomain\bin\Debug\net7.0\CustomerCoreDomain.pdb
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreDomain\obj\Debug\net7.0\CustomerCoreDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreDomain\obj\Debug\net7.0\CustomerCoreDomain.AssemblyInfoInputs.cache
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreDomain\obj\Debug\net7.0\CustomerCoreDomain.AssemblyInfo.cs
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreDomain\obj\Debug\net7.0\CustomerCoreDomain.csproj.CoreCompileInputs.cache
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreDomain\obj\Debug\net7.0\CustomerCoreDomain.dll
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreDomain\obj\Debug\net7.0\refint\CustomerCoreDomain.dll
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreDomain\obj\Debug\net7.0\CustomerCoreDomain.pdb
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreDomain\obj\Debug\net7.0\ref\CustomerCoreDomain.dll

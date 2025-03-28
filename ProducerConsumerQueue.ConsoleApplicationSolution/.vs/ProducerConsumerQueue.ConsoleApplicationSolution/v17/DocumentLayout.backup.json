@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.ConsoleApplicationSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9937B55-19FF-414C-A2A1-0D4A4657CFD5}|Solution Items{F9937B55-19FF-414C-A2A1-0D4A4657CFD5}|C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.ConsoleApplicationSolution\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F9937B55-19FF-414C-A2A1-0D4A4657CFD5}|Solution Items{F9937B55-19FF-414C-A2A1-0D4A4657CFD5}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C148941-9212-453D-BE19-3FF7BEB2E20E}|ProducerConsumerQueue.Tests\\ProducerConsumerQueue.Tests.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\producerconsumerqueue.consoleapplicationsolution\\producerconsumerqueue.tests\\queuetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C148941-9212-453D-BE19-3FF7BEB2E20E}|ProducerConsumerQueue.Tests\\ProducerConsumerQueue.Tests.csproj|solutionrelative:producerconsumerqueue.tests\\queuetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D746AB-323D-47BF-9CD8-835E9D716CA9}|ProducerConsumerQueue.ConsoleApplication\\ProducerConsumerQueue.ConsoleApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\producerconsumerqueue.consoleapplicationsolution\\producerconsumerqueue.consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D746AB-323D-47BF-9CD8-835E9D716CA9}|ProducerConsumerQueue.ConsoleApplication\\ProducerConsumerQueue.ConsoleApplication.csproj|solutionrelative:producerconsumerqueue.consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 524,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.ConsoleApplicationSolution\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.ConsoleApplicationSolution\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-28T10:20:01.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.ConsoleApplicationSolution\\ProducerConsumerQueue.Tests\\QueueTests.cs",
+              "RelativeDocumentMoniker": "ProducerConsumerQueue.Tests\\QueueTests.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.ConsoleApplicationSolution\\ProducerConsumerQueue.Tests\\QueueTests.cs",
+              "RelativeToolTip": "ProducerConsumerQueue.Tests\\QueueTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:18:54.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.ConsoleApplicationSolution\\ProducerConsumerQueue.ConsoleApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ProducerConsumerQueue.ConsoleApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.ConsoleApplicationSolution\\ProducerConsumerQueue.ConsoleApplication\\Program.cs",
+              "RelativeToolTip": "ProducerConsumerQueue.ConsoleApplication\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowDoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:01:15.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

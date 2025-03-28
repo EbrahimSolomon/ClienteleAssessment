@@ -1,0 +1,38 @@
+﻿@model List<string>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <h2>Producer-Consumer Scenario</h2>
+    <p>The producer generates random numbers and adds them to the queue, while the consumer reads and prints these numbers.</p>
+
+    <h3>Results:</h3>
+    <ul id="results-list">
+        @foreach (var result in Model)
+        {
+            <li>@result</li>
+        }
+    </ul>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    // Set interval to call the GetResults action every 2 seconds (2000ms)
+    setInterval(function () {
+        $.ajax({
+            url: '@Url.Action("GetResults", "Home")', // Call the GetResults action in HomeController
+            type: 'GET',
+            success: function (data) {
+                var resultsContainer = $("#results-list");
+                resultsContainer.empty(); // Clear previous results
+
+                // Append the latest results to the list
+                data.forEach(function (result) {
+                    resultsContainer.append('<li>' + result + '</li>');
+                });
+            }
+        });
+    }, 2000); // Update every 2 seconds
+</script>

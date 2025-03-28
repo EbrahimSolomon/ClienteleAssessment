@@ -1,0 +1,15 @@
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreApplication\bin\Debug\net7.0\CustomerCoreApplication.deps.json
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreApplication\bin\Debug\net7.0\CustomerCoreApplication.dll
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreApplication\bin\Debug\net7.0\CustomerCoreApplication.pdb
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreApplication\bin\Debug\net7.0\CustomerCoreDomain.dll
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreApplication\bin\Debug\net7.0\CustomerCoreDomain.pdb
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreApplication\obj\Debug\net7.0\CustomerCoreApplication.csproj.AssemblyReference.cache
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreApplication\obj\Debug\net7.0\CustomerCoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreApplication\obj\Debug\net7.0\CustomerCoreApplication.AssemblyInfoInputs.cache
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreApplication\obj\Debug\net7.0\CustomerCoreApplication.AssemblyInfo.cs
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreApplication\obj\Debug\net7.0\CustomerCoreApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreApplication\obj\Debug\net7.0\Customer.685F0C4F.Up2Date
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreApplication\obj\Debug\net7.0\CustomerCoreApplication.dll
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreApplication\obj\Debug\net7.0\refint\CustomerCoreApplication.dll
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreApplication\obj\Debug\net7.0\CustomerCoreApplication.pdb
+C:\Users\Ebrahim Solomon\Desktop\Clientele\CustomerCoreSolution\CustomerCoreApplication\obj\Debug\net7.0\ref\CustomerCoreApplication.dll

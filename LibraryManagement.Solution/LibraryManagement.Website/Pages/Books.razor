@@ -1,0 +1,75 @@
+﻿@page "/books"
+@using LibraryManagement.Shared.DTOs
+@using LibraryManagement.Website.Services
+@inject BookApiService ApiService
+
+<h3>Library Books</h3>
+
+<input @bind="searchTerm" placeholder="Search books..." />
+<button @onclick="SearchBooks">Search</button>
+<button @onclick="LoadBooks">Refresh</button>
+
+@if (books is null)
+{
+    <p>Loading...</p>
+}
+else if (!books.Any())
+{
+    <p>No books found.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>ISBN</th>
+                <th>Year</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in books)
+            {
+                <tr>
+                    <td>@book.Title</td>
+                    <td>@book.Author</td>
+                    <td>@book.ISBN</td>
+                    <td>@book.PublicationYear</td>
+                    <td>
+                        <button class="btn btn-danger" @onclick="() => DeleteBook(book.Id)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a class="btn btn-primary" href="/add-book">Add New Book</a>
+
+@code {
+    private List<BookDto>? books;
+    private string searchTerm = "";
+
+    protected override async Task OnInitializedAsync() => await LoadBooks();
+
+    private async Task LoadBooks()
+    {
+        books = await ApiService.GetBooksAsync();
+    }
+
+    private async Task DeleteBook(int id)
+    {
+        await ApiService.DeleteBookAsync(id);
+        await LoadBooks();
+    }
+
+    private async Task SearchBooks()
+    {
+        if (!string.IsNullOrWhiteSpace(searchTerm))
+            books = await ApiService.SearchBooksAsync(searchTerm);
+        else
+            await LoadBooks();
+    }
+}

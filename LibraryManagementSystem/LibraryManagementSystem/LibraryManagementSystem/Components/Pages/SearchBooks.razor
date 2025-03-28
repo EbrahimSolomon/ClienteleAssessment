@@ -1,0 +1,36 @@
+﻿@page "/search-books"
+@using LibraryManagementSystem.Client.Models
+@using LibraryManagementSystem.Client.Services
+@inject IBookService BookService
+
+<h3>Search Books</h3>
+
+<input @bind="query" placeholder="Search by Title or Author" />
+<button @onclick="Search">Search</button>
+
+@if (searchResults != null)
+{
+    if (!searchResults.Any())
+    {
+        <p>No matching books found.</p>
+    }
+    else
+    {
+        <ul>
+            @foreach (var book in searchResults)
+            {
+                <li>@book.Title by @book.Author (@book.PublicationYear)</li>
+            }
+        </ul>
+    }
+}
+
+@code {
+    private string query = "";
+    private List<BookDto>? searchResults;
+
+    private async Task Search()
+    {
+        searchResults = await BookService.SearchBooksAsync(query);
+    }
+}

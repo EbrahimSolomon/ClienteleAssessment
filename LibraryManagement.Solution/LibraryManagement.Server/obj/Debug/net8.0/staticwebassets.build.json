@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bt3XIwlW2iEuHX7qwBjULR93uNCvlBHkFu6VZFWK/5s=",
+  "Source": "LibraryManagement.Server",
+  "BasePath": "_content/LibraryManagement.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

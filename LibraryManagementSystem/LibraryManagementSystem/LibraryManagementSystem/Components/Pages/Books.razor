@@ -1,0 +1,31 @@
+﻿@page "/books"
+@inject IBookService BookService
+
+<h3>Books List</h3>
+
+@if (books is null)
+{
+    <p>Loading books...</p>
+}
+else if (!books.Any())
+{
+    <p>No books available.</p>
+}
+else
+{
+    <ul>
+        @foreach (var book in books)
+        {
+            <li>@book.Title by @book.Author (@book.PublicationYear)</li>
+        }
+    </ul>
+}
+
+@code {
+    private List<BookDto>? books;
+
+    protected override async Task OnInitializedAsync()
+    {
+        books = await BookService.GetBooksAsync();
+    }
+}

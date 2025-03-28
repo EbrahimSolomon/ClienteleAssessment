@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18F45BB9-5DF7-4BA8-9D12-B09E9EDF0837}|LibraryManagement.Server\\LibraryManagement.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\librarymanagement.solution\\librarymanagement.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F45BB9-5DF7-4BA8-9D12-B09E9EDF0837}|LibraryManagement.Server\\LibraryManagement.Server.csproj|solutionrelative:librarymanagement.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E09153-1CA9-4CB2-8A3D-857AF2089173}|LibraryManagement.Website\\LibraryManagement.Website.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\librarymanagement.solution\\librarymanagement.website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E09153-1CA9-4CB2-8A3D-857AF2089173}|LibraryManagement.Website\\LibraryManagement.Website.csproj|solutionrelative:librarymanagement.website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F45BB9-5DF7-4BA8-9D12-B09E9EDF0837}|LibraryManagement.Server\\LibraryManagement.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\librarymanagement.solution\\librarymanagement.server\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F45BB9-5DF7-4BA8-9D12-B09E9EDF0837}|LibraryManagement.Server\\LibraryManagement.Server.csproj|solutionrelative:librarymanagement.server\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E09153-1CA9-4CB2-8A3D-857AF2089173}|LibraryManagement.Website\\LibraryManagement.Website.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\librarymanagement.solution\\librarymanagement.website\\services\\bookapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E09153-1CA9-4CB2-8A3D-857AF2089173}|LibraryManagement.Website\\LibraryManagement.Website.csproj|solutionrelative:librarymanagement.website\\services\\bookapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E09153-1CA9-4CB2-8A3D-857AF2089173}|LibraryManagement.Website\\LibraryManagement.Website.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\librarymanagement.solution\\librarymanagement.website\\pages\\books.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E09153-1CA9-4CB2-8A3D-857AF2089173}|LibraryManagement.Website\\LibraryManagement.Website.csproj|solutionrelative:librarymanagement.website\\pages\\books.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F45BB9-5DF7-4BA8-9D12-B09E9EDF0837}|LibraryManagement.Server\\LibraryManagement.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\librarymanagement.solution\\librarymanagement.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18F45BB9-5DF7-4BA8-9D12-B09E9EDF0837}|LibraryManagement.Server\\LibraryManagement.Server.csproj|solutionrelative:librarymanagement.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F45BB9-5DF7-4BA8-9D12-B09E9EDF0837}|LibraryManagement.Server\\LibraryManagement.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\librarymanagement.solution\\librarymanagement.server\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F45BB9-5DF7-4BA8-9D12-B09E9EDF0837}|LibraryManagement.Server\\LibraryManagement.Server.csproj|solutionrelative:librarymanagement.server\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F45BB9-5DF7-4BA8-9D12-B09E9EDF0837}|LibraryManagement.Server\\LibraryManagement.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\librarymanagement.solution\\librarymanagement.server\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F45BB9-5DF7-4BA8-9D12-B09E9EDF0837}|LibraryManagement.Server\\LibraryManagement.Server.csproj|solutionrelative:librarymanagement.server\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F45BB9-5DF7-4BA8-9D12-B09E9EDF0837}|LibraryManagement.Server\\LibraryManagement.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\librarymanagement.solution\\librarymanagement.server\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F45BB9-5DF7-4BA8-9D12-B09E9EDF0837}|LibraryManagement.Server\\LibraryManagement.Server.csproj|solutionrelative:librarymanagement.server\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F45BB9-5DF7-4BA8-9D12-B09E9EDF0837}|LibraryManagement.Server\\LibraryManagement.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\librarymanagement.solution\\librarymanagement.server\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F45BB9-5DF7-4BA8-9D12-B09E9EDF0837}|LibraryManagement.Server\\LibraryManagement.Server.csproj|solutionrelative:librarymanagement.server\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F45BB9-5DF7-4BA8-9D12-B09E9EDF0837}|LibraryManagement.Server\\LibraryManagement.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\librarymanagement.solution\\librarymanagement.server\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F45BB9-5DF7-4BA8-9D12-B09E9EDF0837}|LibraryManagement.Server\\LibraryManagement.Server.csproj|solutionrelative:librarymanagement.server\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E09153-1CA9-4CB2-8A3D-857AF2089173}|LibraryManagement.Website\\LibraryManagement.Website.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\librarymanagement.solution\\librarymanagement.website\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E09153-1CA9-4CB2-8A3D-857AF2089173}|LibraryManagement.Website\\LibraryManagement.Website.csproj|solutionrelative:librarymanagement.website\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E09153-1CA9-4CB2-8A3D-857AF2089173}|LibraryManagement.Website\\LibraryManagement.Website.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\librarymanagement.solution\\librarymanagement.website\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E09153-1CA9-4CB2-8A3D-857AF2089173}|LibraryManagement.Website\\LibraryManagement.Website.csproj|solutionrelative:librarymanagement.website\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E09153-1CA9-4CB2-8A3D-857AF2089173}|LibraryManagement.Website\\LibraryManagement.Website.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\librarymanagement.solution\\librarymanagement.website\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E09153-1CA9-4CB2-8A3D-857AF2089173}|LibraryManagement.Website\\LibraryManagement.Website.csproj|solutionrelative:librarymanagement.website\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E09153-1CA9-4CB2-8A3D-857AF2089173}|LibraryManagement.Website\\LibraryManagement.Website.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\librarymanagement.solution\\librarymanagement.website\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20E09153-1CA9-4CB2-8A3D-857AF2089173}|LibraryManagement.Website\\LibraryManagement.Website.csproj|solutionrelative:librarymanagement.website\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 524,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Website\\Services\\BookApiService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Website\\Services\\BookApiService.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Website\\Services\\BookApiService.cs",
+              "RelativeToolTip": "LibraryManagement.Website\\Services\\BookApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:18:21.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Server\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Server\\Program.cs",
+              "RelativeToolTip": "LibraryManagement.Server\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:09:03.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Server\\Services\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Server\\Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Server\\Services\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "LibraryManagement.Server\\Services\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:02:58.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Server\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Server\\Repositories\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Server\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "LibraryManagement.Server\\Repositories\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:02:29.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Server\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Server\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Server\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "LibraryManagement.Server\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:02:11.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Server\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Server\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Server\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagement.Server\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADgvxsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:00:52.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Server\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Server\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Server\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagement.Server\\Models\\Book.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:57:47.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Website\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "LibraryManagement.Website\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Website\\wwwroot\\index.html",
+              "RelativeToolTip": "LibraryManagement.Website\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-27T19:49:29.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Website\\_Imports.razor",
+              "RelativeDocumentMoniker": "LibraryManagement.Website\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Website\\_Imports.razor",
+              "RelativeToolTip": "LibraryManagement.Website\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:49:02.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Books.razor",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Website\\Pages\\Books.razor",
+              "RelativeDocumentMoniker": "LibraryManagement.Website\\Pages\\Books.razor",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Website\\Pages\\Books.razor",
+              "RelativeToolTip": "LibraryManagement.Website\\Pages\\Books.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:39:47.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Website\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Website\\Program.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Website\\Program.cs",
+              "RelativeToolTip": "LibraryManagement.Website\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:40:24.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Server\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Server\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Server\\Services\\BookService.cs",
+              "RelativeToolTip": "LibraryManagement.Server\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:03:12.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LibraryManagement.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LibraryManagement.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T20:16:39.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Website\\App.razor",
+              "RelativeDocumentMoniker": "LibraryManagement.Website\\App.razor",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Website\\App.razor",
+              "RelativeToolTip": "LibraryManagement.Website\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:48:59.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Website\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "LibraryManagement.Website\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\LibraryManagement.Solution\\LibraryManagement.Website\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "LibraryManagement.Website\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:44:01.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6699284C-2E65-43B3-97CA-0BA1447E52A5}|Solution Items{6699284C-2E65-43B3-97CA-0BA1447E52A5}|C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{6699284C-2E65-43B3-97CA-0BA1447E52A5}|Solution Items{6699284C-2E65-43B3-97CA-0BA1447E52A5}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\product.serversolution\\product.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|solutionrelative:product.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0CD388-2559-46B5-B1AA-F3B7537D5825}|Product.Server.Tests\\Product.Server.Tests.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\product.serversolution\\product.server.tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0CD388-2559-46B5-B1AA-F3B7537D5825}|Product.Server.Tests\\Product.Server.Tests.csproj|solutionrelative:product.server.tests\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\product.serversolution\\product.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|solutionrelative:product.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\product.serversolution\\product.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|solutionrelative:product.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\product.serversolution\\product.server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|solutionrelative:product.server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\product.serversolution\\product.server\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|solutionrelative:product.server\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\product.serversolution\\product.server\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|solutionrelative:product.server\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\product.serversolution\\product.server\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|solutionrelative:product.server\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\product.serversolution\\product.server\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|solutionrelative:product.server\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\product.serversolution\\product.server\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|solutionrelative:product.server\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\product.serversolution\\product.server\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|solutionrelative:product.server\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\product.serversolution\\product.server\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39089945-1D59-490E-B7C7-0569361DC794}|Product.Server\\Product.Server.csproj|solutionrelative:product.server\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 524,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-28T11:38:07.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server.Tests\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "Product.Server.Tests\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server.Tests\\ProductServiceTests.cs",
+              "RelativeToolTip": "Product.Server.Tests\\ProductServiceTests.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:35:50.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Product.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\appsettings.json",
+              "RelativeToolTip": "Product.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T10:34:33.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Product.Server\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Product.Server\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:50:48.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Product.Server\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Product.Server\\Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:47:34.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Product.Server\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Product.Server\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:44:33.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Product.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Program.cs",
+              "RelativeToolTip": "Product.Server\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:38:59.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Product.Server\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Services\\ProductService.cs",
+              "RelativeToolTip": "Product.Server\\Services\\ProductService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:28:37.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Product.Server\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Services\\IProductService.cs",
+              "RelativeToolTip": "Product.Server\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:28:26.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Product.Server\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Models\\Product.cs",
+              "RelativeToolTip": "Product.Server\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:27:55.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Product.Server\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Product.Server\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:25:58.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Product.Server\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Product.Server\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIAxwCUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:51:10.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Data\\ProductContext.cs",
+              "RelativeDocumentMoniker": "Product.Server\\Data\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\Product.ServerSolution\\Product.Server\\Data\\ProductContext.cs",
+              "RelativeToolTip": "Product.Server\\Data\\ProductContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:51:48.528Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

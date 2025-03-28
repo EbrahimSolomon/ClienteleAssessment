@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF15E696-6541-419E-A5F7-0F43119E0525}|ProducerConsumerQueue.WebApplication\\ProducerConsumerQueue.WebApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\producerconsumerqueue.solution\\producerconsumerqueue.webapplication\\services\\producerconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF15E696-6541-419E-A5F7-0F43119E0525}|ProducerConsumerQueue.WebApplication\\ProducerConsumerQueue.WebApplication.csproj|solutionrelative:producerconsumerqueue.webapplication\\services\\producerconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF15E696-6541-419E-A5F7-0F43119E0525}|ProducerConsumerQueue.WebApplication\\ProducerConsumerQueue.WebApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\producerconsumerqueue.solution\\producerconsumerqueue.webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF15E696-6541-419E-A5F7-0F43119E0525}|ProducerConsumerQueue.WebApplication\\ProducerConsumerQueue.WebApplication.csproj|solutionrelative:producerconsumerqueue.webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF15E696-6541-419E-A5F7-0F43119E0525}|ProducerConsumerQueue.WebApplication\\ProducerConsumerQueue.WebApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\producerconsumerqueue.solution\\producerconsumerqueue.webapplication\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF15E696-6541-419E-A5F7-0F43119E0525}|ProducerConsumerQueue.WebApplication\\ProducerConsumerQueue.WebApplication.csproj|solutionrelative:producerconsumerqueue.webapplication\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF15E696-6541-419E-A5F7-0F43119E0525}|ProducerConsumerQueue.WebApplication\\ProducerConsumerQueue.WebApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\producerconsumerqueue.solution\\producerconsumerqueue.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF15E696-6541-419E-A5F7-0F43119E0525}|ProducerConsumerQueue.WebApplication\\ProducerConsumerQueue.WebApplication.csproj|solutionrelative:producerconsumerqueue.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF15E696-6541-419E-A5F7-0F43119E0525}|ProducerConsumerQueue.WebApplication\\ProducerConsumerQueue.WebApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\producerconsumerqueue.solution\\producerconsumerqueue.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF15E696-6541-419E-A5F7-0F43119E0525}|ProducerConsumerQueue.WebApplication\\ProducerConsumerQueue.WebApplication.csproj|solutionrelative:producerconsumerqueue.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF15E696-6541-419E-A5F7-0F43119E0525}|ProducerConsumerQueue.WebApplication\\ProducerConsumerQueue.WebApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\producerconsumerqueue.solution\\producerconsumerqueue.webapplication\\services\\iproducerconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF15E696-6541-419E-A5F7-0F43119E0525}|ProducerConsumerQueue.WebApplication\\ProducerConsumerQueue.WebApplication.csproj|solutionrelative:producerconsumerqueue.webapplication\\services\\iproducerconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF15E696-6541-419E-A5F7-0F43119E0525}|ProducerConsumerQueue.WebApplication\\ProducerConsumerQueue.WebApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\producerconsumerqueue.solution\\producerconsumerqueue.webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF15E696-6541-419E-A5F7-0F43119E0525}|ProducerConsumerQueue.WebApplication\\ProducerConsumerQueue.WebApplication.csproj|solutionrelative:producerconsumerqueue.webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 524,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.Solution\\ProducerConsumerQueue.WebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "ProducerConsumerQueue.WebApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.Solution\\ProducerConsumerQueue.WebApplication\\appsettings.json",
+              "RelativeToolTip": "ProducerConsumerQueue.WebApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T09:20:59.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.Solution\\ProducerConsumerQueue.WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ProducerConsumerQueue.WebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.Solution\\ProducerConsumerQueue.WebApplication\\Program.cs",
+              "RelativeToolTip": "ProducerConsumerQueue.WebApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:10:04.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.Solution\\ProducerConsumerQueue.WebApplication\\Startup.cs",
+              "RelativeDocumentMoniker": "ProducerConsumerQueue.WebApplication\\Startup.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.Solution\\ProducerConsumerQueue.WebApplication\\Startup.cs",
+              "RelativeToolTip": "ProducerConsumerQueue.WebApplication\\Startup.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:09:15.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.Solution\\ProducerConsumerQueue.WebApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProducerConsumerQueue.WebApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.Solution\\ProducerConsumerQueue.WebApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProducerConsumerQueue.WebApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:05:41.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.Solution\\ProducerConsumerQueue.WebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProducerConsumerQueue.WebApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.Solution\\ProducerConsumerQueue.WebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProducerConsumerQueue.WebApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T09:03:53.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProducerConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.Solution\\ProducerConsumerQueue.WebApplication\\Services\\ProducerConsumerService.cs",
+              "RelativeDocumentMoniker": "ProducerConsumerQueue.WebApplication\\Services\\ProducerConsumerService.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.Solution\\ProducerConsumerQueue.WebApplication\\Services\\ProducerConsumerService.cs",
+              "RelativeToolTip": "ProducerConsumerQueue.WebApplication\\Services\\ProducerConsumerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:03:43.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProducerConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.Solution\\ProducerConsumerQueue.WebApplication\\Services\\IProducerConsumerService.cs",
+              "RelativeDocumentMoniker": "ProducerConsumerQueue.WebApplication\\Services\\IProducerConsumerService.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\ProducerConsumerQueue.Solution\\ProducerConsumerQueue.WebApplication\\Services\\IProducerConsumerService.cs",
+              "RelativeToolTip": "ProducerConsumerQueue.WebApplication\\Services\\IProducerConsumerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:02:50.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

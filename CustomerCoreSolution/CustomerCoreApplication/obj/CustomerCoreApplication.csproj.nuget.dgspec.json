@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\CustomerCoreApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\CustomerCoreApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\CustomerCoreApplication.csproj",
+        "projectName": "CustomerCoreApplication",
+        "projectPath": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\CustomerCoreApplication.csproj",
+        "packagesPath": "C:\\Users\\Ebrahim Solomon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ebrahim Solomon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreDomain\\CustomerCoreDomain.csproj": {
+                "projectPath": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreDomain\\CustomerCoreDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreDomain\\CustomerCoreDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreDomain\\CustomerCoreDomain.csproj",
+        "projectName": "CustomerCoreDomain",
+        "projectPath": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreDomain\\CustomerCoreDomain.csproj",
+        "packagesPath": "C:\\Users\\Ebrahim Solomon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ebrahim Solomon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

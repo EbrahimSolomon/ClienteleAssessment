@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9217940E-E0FC-4D1B-BB27-486DF7F0231A}|Solution Items{9217940E-E0FC-4D1B-BB27-486DF7F0231A}|C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{9217940E-E0FC-4D1B-BB27-486DF7F0231A}|Solution Items{9217940E-E0FC-4D1B-BB27-486DF7F0231A}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4A740B-66F5-4D09-A7D3-F8166788928D}|CustomeCorerWebAPI\\CustomeCoreWebAPI.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customecorerwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F4A740B-66F5-4D09-A7D3-F8166788928D}|CustomeCorerWebAPI\\CustomeCoreWebAPI.csproj|solutionrelative:customecorerwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4A740B-66F5-4D09-A7D3-F8166788928D}|CustomeCorerWebAPI\\CustomeCoreWebAPI.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customecorerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4A740B-66F5-4D09-A7D3-F8166788928D}|CustomeCorerWebAPI\\CustomeCoreWebAPI.csproj|solutionrelative:customecorerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4A740B-66F5-4D09-A7D3-F8166788928D}|CustomeCorerWebAPI\\CustomeCoreWebAPI.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customecorerwebapi\\customecorewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F4A740B-66F5-4D09-A7D3-F8166788928D}|CustomeCorerWebAPI\\CustomeCoreWebAPI.csproj|solutionrelative:customecorerwebapi\\customecorewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96399EEC-3CC3-4308-B3B1-BB17D490435E}|CustomerCoreInfrastructure\\CustomerCoreInfrastructure.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreinfrastructure\\customercoreinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96399EEC-3CC3-4308-B3B1-BB17D490435E}|CustomerCoreInfrastructure\\CustomerCoreInfrastructure.csproj|solutionrelative:customercoreinfrastructure\\customercoreinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreapplication\\customercoreapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|solutionrelative:customercoreapplication\\customercoreapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreapplication\\features\\customers\\hnadlers\\deletecustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|solutionrelative:customercoreapplication\\features\\customers\\hnadlers\\deletecustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreapplication\\features\\customers\\commands\\deletecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|solutionrelative:customercoreapplication\\features\\customers\\commands\\deletecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreapplication\\features\\customers\\hnadlers\\updatecustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|solutionrelative:customercoreapplication\\features\\customers\\hnadlers\\updatecustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreapplication\\features\\customers\\commands\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|solutionrelative:customercoreapplication\\features\\customers\\commands\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreapplication\\features\\customers\\hnadlers\\getcustomerbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|solutionrelative:customercoreapplication\\features\\customers\\hnadlers\\getcustomerbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4A740B-66F5-4D09-A7D3-F8166788928D}|CustomeCorerWebAPI\\CustomeCoreWebAPI.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customecorerwebapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4A740B-66F5-4D09-A7D3-F8166788928D}|CustomeCorerWebAPI\\CustomeCoreWebAPI.csproj|solutionrelative:customecorerwebapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreapplication\\features\\customers\\hnadlers\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|solutionrelative:customercoreapplication\\features\\customers\\hnadlers\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreapplication\\features\\queries\\getallcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|solutionrelative:customercoreapplication\\features\\queries\\getallcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreapplication\\features\\customers\\commands\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|solutionrelative:customercoreapplication\\features\\customers\\commands\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreapplication\\features\\customers\\hnadlers\\getallcustomersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|solutionrelative:customercoreapplication\\features\\customers\\hnadlers\\getallcustomersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreapplication\\features\\queries\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|solutionrelative:customercoreapplication\\features\\queries\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96399EEC-3CC3-4308-B3B1-BB17D490435E}|CustomerCoreInfrastructure\\CustomerCoreInfrastructure.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreinfrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96399EEC-3CC3-4308-B3B1-BB17D490435E}|CustomerCoreInfrastructure\\CustomerCoreInfrastructure.csproj|solutionrelative:customercoreinfrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreapplication\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|solutionrelative:customercoreapplication\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreapplication\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|solutionrelative:customercoreapplication\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96399EEC-3CC3-4308-B3B1-BB17D490435E}|CustomerCoreInfrastructure\\CustomerCoreInfrastructure.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreinfrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96399EEC-3CC3-4308-B3B1-BB17D490435E}|CustomerCoreInfrastructure\\CustomerCoreInfrastructure.csproj|solutionrelative:customercoreinfrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96399EEC-3CC3-4308-B3B1-BB17D490435E}|CustomerCoreInfrastructure\\CustomerCoreInfrastructure.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreinfrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96399EEC-3CC3-4308-B3B1-BB17D490435E}|CustomerCoreInfrastructure\\CustomerCoreInfrastructure.csproj|solutionrelative:customercoreinfrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreapplication\\validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|solutionrelative:customercoreapplication\\validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3E1ED1-2D64-41FD-A32B-93BC91685DDC}|CustomerCoreDomain\\CustomerCoreDomain.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoredomain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3E1ED1-2D64-41FD-A32B-93BC91685DDC}|CustomerCoreDomain\\CustomerCoreDomain.csproj|solutionrelative:customercoredomain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|c:\\users\\ebrahim solomon\\desktop\\clientele\\customercoresolution\\customercoreapplication\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE712245-4FA2-4F24-8E52-B876FF44388E}|CustomerCoreApplication\\CustomerCoreApplication.csproj|solutionrelative:customercoreapplication\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 524,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-28T13:08:39.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateCustomerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Customers\\Hnadlers\\UpdateCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "CustomerCoreApplication\\Features\\Customers\\Hnadlers\\UpdateCustomerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Customers\\Hnadlers\\UpdateCustomerCommandHandler.cs",
+              "RelativeToolTip": "CustomerCoreApplication\\Features\\Customers\\Hnadlers\\UpdateCustomerCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:35:55.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateCustomerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Customers\\Commands\\UpdateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "CustomerCoreApplication\\Features\\Customers\\Commands\\UpdateCustomerCommand.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Customers\\Commands\\UpdateCustomerCommand.cs",
+              "RelativeToolTip": "CustomerCoreApplication\\Features\\Customers\\Commands\\UpdateCustomerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:35:15.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteCustomerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Customers\\Commands\\DeleteCustomerCommand.cs",
+              "RelativeDocumentMoniker": "CustomerCoreApplication\\Features\\Customers\\Commands\\DeleteCustomerCommand.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Customers\\Commands\\DeleteCustomerCommand.cs",
+              "RelativeToolTip": "CustomerCoreApplication\\Features\\Customers\\Commands\\DeleteCustomerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:36:33.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerCoreApplication",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\CustomerCoreApplication.csproj",
+              "RelativeDocumentMoniker": "CustomerCoreApplication\\CustomerCoreApplication.csproj",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\CustomerCoreApplication.csproj",
+              "RelativeToolTip": "CustomerCoreApplication\\CustomerCoreApplication.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T12:02:33.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerCoreInfrastructure",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreInfrastructure\\CustomerCoreInfrastructure.csproj",
+              "RelativeDocumentMoniker": "CustomerCoreInfrastructure\\CustomerCoreInfrastructure.csproj",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreInfrastructure\\CustomerCoreInfrastructure.csproj",
+              "RelativeToolTip": "CustomerCoreInfrastructure\\CustomerCoreInfrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T12:10:15.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomeCorerWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CustomeCorerWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomeCorerWebAPI\\Program.cs",
+              "RelativeToolTip": "CustomeCorerWebAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAhwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:02:29.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomeCorerWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomeCorerWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomeCorerWebAPI\\appsettings.json",
+              "RelativeToolTip": "CustomeCorerWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T12:22:09.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomeCoreWebAPI",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomeCorerWebAPI\\CustomeCoreWebAPI.csproj",
+              "RelativeDocumentMoniker": "CustomeCorerWebAPI\\CustomeCoreWebAPI.csproj",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomeCorerWebAPI\\CustomeCoreWebAPI.csproj",
+              "RelativeToolTip": "CustomeCorerWebAPI\\CustomeCoreWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T12:46:09.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteCustomerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Customers\\Hnadlers\\DeleteCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "CustomerCoreApplication\\Features\\Customers\\Hnadlers\\DeleteCustomerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Customers\\Hnadlers\\DeleteCustomerCommandHandler.cs",
+              "RelativeToolTip": "CustomerCoreApplication\\Features\\Customers\\Hnadlers\\DeleteCustomerCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:36:53.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetCustomerByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Customers\\Hnadlers\\GetCustomerByIdHandler.cs",
+              "RelativeDocumentMoniker": "CustomerCoreApplication\\Features\\Customers\\Hnadlers\\GetCustomerByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Customers\\Hnadlers\\GetCustomerByIdHandler.cs",
+              "RelativeToolTip": "CustomerCoreApplication\\Features\\Customers\\Hnadlers\\GetCustomerByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:41:55.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomeCorerWebAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CustomeCorerWebAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomeCorerWebAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CustomeCorerWebAPI\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:40:03.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateCustomerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Customers\\Hnadlers\\CreateCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "CustomerCoreApplication\\Features\\Customers\\Hnadlers\\CreateCustomerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Customers\\Hnadlers\\CreateCustomerCommandHandler.cs",
+              "RelativeToolTip": "CustomerCoreApplication\\Features\\Customers\\Hnadlers\\CreateCustomerCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:30:23.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllCustomersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Queries\\GetAllCustomersQuery.cs",
+              "RelativeDocumentMoniker": "CustomerCoreApplication\\Features\\Queries\\GetAllCustomersQuery.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Queries\\GetAllCustomersQuery.cs",
+              "RelativeToolTip": "CustomerCoreApplication\\Features\\Queries\\GetAllCustomersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:37:40.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateCustomerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Customers\\Commands\\CreateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "CustomerCoreApplication\\Features\\Customers\\Commands\\CreateCustomerCommand.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Customers\\Commands\\CreateCustomerCommand.cs",
+              "RelativeToolTip": "CustomerCoreApplication\\Features\\Customers\\Commands\\CreateCustomerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:24:34.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllCustomersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Customers\\Hnadlers\\GetAllCustomersQueryHandler.cs",
+              "RelativeDocumentMoniker": "CustomerCoreApplication\\Features\\Customers\\Hnadlers\\GetAllCustomersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Customers\\Hnadlers\\GetAllCustomersQueryHandler.cs",
+              "RelativeToolTip": "CustomerCoreApplication\\Features\\Customers\\Hnadlers\\GetAllCustomersQueryHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:38:19.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetCustomerByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Queries\\GetCustomerByIdQuery.cs",
+              "RelativeDocumentMoniker": "CustomerCoreApplication\\Features\\Queries\\GetCustomerByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Features\\Queries\\GetCustomerByIdQuery.cs",
+              "RelativeToolTip": "CustomerCoreApplication\\Features\\Queries\\GetCustomerByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:33:58.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreInfrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerCoreInfrastructure\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreInfrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CustomerCoreInfrastructure\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:20:06.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreInfrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CustomerCoreInfrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreInfrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "CustomerCoreInfrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:18:39.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CustomerCoreApplication\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "CustomerCoreApplication\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:17:37.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Validators\\CustomerValidator.cs",
+              "RelativeDocumentMoniker": "CustomerCoreApplication\\Validators\\CustomerValidator.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Validators\\CustomerValidator.cs",
+              "RelativeToolTip": "CustomerCoreApplication\\Validators\\CustomerValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:14:55.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreInfrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CustomerCoreInfrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreInfrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "CustomerCoreInfrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:08:18.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerCoreApplication\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "CustomerCoreApplication\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:07:13.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\DTOs\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "CustomerCoreApplication\\DTOs\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreApplication\\DTOs\\CustomerDto.cs",
+              "RelativeToolTip": "CustomerCoreApplication\\DTOs\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:06:02.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreDomain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerCoreDomain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Ebrahim Solomon\\Desktop\\Clientele\\CustomerCoreSolution\\CustomerCoreDomain\\Entities\\Customer.cs",
+              "RelativeToolTip": "CustomerCoreDomain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:04:34.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
